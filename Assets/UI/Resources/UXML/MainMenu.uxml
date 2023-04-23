@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Resources/USS/Sheet_Mainmenu.uss?fileID=7433441132597879392&amp;guid=b2b65c565516f9145b30208c4a8f61eb&amp;type=3#Sheet_Mainmenu" />
+    <ui:VisualElement name="MainContainer" style="width: 100%; height: 100%; background-color: rgb(0, 0, 0); background-image: resource(&apos;img/MainmenuBackground&apos;); -unity-background-image-tint-color: rgba(255, 255, 255, 0.67); -unity-background-scale-mode: scale-and-crop;">
+        <ui:VisualElement name="TitleContainer" style="width: 60%; height: 20%; margin-left: 20%; margin-top: 2%; align-items: stretch; justify-content: center; background-color: rgba(101, 101, 101, 0.58); border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; margin-bottom: 2%;">
+            <ui:Label text="Cave Crawler" display-tooltip-when-elided="true" name="TitleLabel" style="flex-shrink: 1; font-size: 70px; -unity-text-align: middle-center; color: rgb(255, 255, 255); -unity-font-style: bold;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="ControlContainer" class="controlcontainer" style="margin-top: 13%;">
+            <ui:VisualElement name="PlayContainer" class="controlbutton" style="background-color: rgba(104, 183, 94, 0.56); justify-content: center;">
+                <ui:Label text="Play" display-tooltip-when-elided="true" name="PlayLabel" class="buttonlabel" style="color: rgb(255, 255, 255);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="ExitContainer" class="controlbutton" style="background-color: rgba(214, 112, 96, 0.54);">
+                <ui:Label text="Exit Game" display-tooltip-when-elided="true" name="ExitLabel" class="buttonlabel" style="color: rgb(255, 255, 255);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
