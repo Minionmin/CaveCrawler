@@ -19,3 +19,5 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     このプロジェクトは教育目的のみで開発され、収益化する意図はありません。すべてのアセットライセンスはそれぞれの作成者に帰属します。このプロジェクトは生のUnityファイルになっており、まだビルドされてないため、プレイするためにはビルドが必要となります。また、このプロジェクトはゲームのプロトタイプであり、完成されているバージョンではありません。ご了承ください。
+
+<br>Gameplay・ゲームプレイ動画: https://drive.google.com/drive/u/1/folders/1ig3ymRTtvkB2DJJwZ0fkxD_MFW1c6wLy
